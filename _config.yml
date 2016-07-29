@@ -1,0 +1,14 @@
+layout_spectrum: 0.4498645563144237
+typography_spectrum: 0.08906731870956719
+color:
+  brandStrength: 0.975664580008015
+  lightness: 0.21452581696212292
+  saturation: 0.12380677135661244
+  rhythmicContrast: 0.07486384687945247
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+name: Reflection
